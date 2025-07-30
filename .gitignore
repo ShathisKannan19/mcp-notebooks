@@ -1,0 +1,64 @@
+# ┌──────────────────────────────
+# │ Virtual & Conda environments
+# └──────────────────────────────
+.env/
+venv/
+env/
+ENV/
+__pypackages__/
+.conda/
+.condarc
+conda-meta/
+
+# ┌──────────────────────────────
+# │ Python byte-code & caches
+# └──────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ┌──────────────────────────────
+# │ Jupyter / IPython
+# └──────────────────────────────
+.ipynb_checkpoints/
+profile_default/
+.ipython/
+jupyter_runtime/
+
+# ┌──────────────────────────────
+# │ Notebook export artifacts
+# └──────────────────────────────
+*.nbconvert.ipynb
+*.nb.html
+*.pdf
+*.markdown
+
+# ┌──────────────────────────────
+# │ Distribution / packaging
+# └──────────────────────────────
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# ┌──────────────────────────────
+# │ IDEs & editors
+# └──────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ┌──────────────────────────────
+# │ macOS / Windows
+# └──────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ┌──────────────────────────────
+# │ Miscellaneous
+# └──────────────────────────────
+papers/
+.env
+.venv/
