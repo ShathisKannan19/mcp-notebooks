@@ -23,7 +23,7 @@ Explore the design and components of MCP:
 [**MCP Architecture** (Notion)](https://www.notion.so/MCP-Architecture-2337d374122780728f7af72e9b03f2a8?source=copy_link)
 
 
-### 🍳 LLM Chatbot
+### LLM Chatbot
 
 Hands-on examples using function tool calling with different providers:
 
@@ -32,6 +32,13 @@ Hands-on examples using function tool calling with different providers:
 
 - 🤖 **ChatBot using OpenAI**  
   [`tool_calling_openai_chatbot.ipynb`](/cookbooks/chatbots/tool_calling_openai_chatbot.ipynb)
+
+### Creating MCP Server
+
+Hands-on guide to creating an MCP server:
+- 🖥️ **Creating an MCP Server**  
+  [`mcp_server.ipynb`](/cookbooks/mcp_server.ipynb) - This example aligns with exposing the tools via the MCP server.
+
 
 **Contributions Welcome!**  
 If you’d like to add examples using other providers or open-source models, feel free to open a pull request. I’ll review and merge it.
