@@ -62,3 +62,4 @@ Thumbs.db
 papers/
 .env
 .venv/
+main.py
