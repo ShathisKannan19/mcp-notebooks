@@ -63,3 +63,4 @@ papers/
 .env
 .venv/
 main.py
+*.lock
