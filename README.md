@@ -39,6 +39,12 @@ Hands-on guide to creating an MCP server:
 - 🖥️ **Creating an MCP Server**  
   [`mcp_server.ipynb`](/cookbooks/mcp_server.ipynb) - This example aligns with exposing the tools via the MCP server.
 
+### Creating MCP Client
+
+Hands-on guide to creating an MCP client:
+- 🖥️ **Creating an MCP Client**
+  [`mcp_client.ipynb`](/cookbooks/mcp_client.ipynb) - This example aligns with consuming the tools via the MCP client. Additionally, They contains the steps to run the MCP client and interact with the MCP server using LLMs.
+
 
 **Contributions Welcome!**  
 If you’d like to add examples using other providers or open-source models, feel free to open a pull request. I’ll review and merge it.
@@ -57,7 +63,7 @@ I’m learning MCP through a free course by **DeepLearning.AI** and **Anthropic*
 > This repository is a work in progress. More content and examples will be added regularly.
 
 > [!TIP]
-> Use the [Notion links](#model-context-protocol-mcp) above for deep dives, and refer to the [Cookbooks](#mcp-cookbook) for practical code.
+> Use the [Notion links & MCP Cookbooks](#model-context-protocol-mcp) above for deep dives and refer to them for practical code.
 
 ---
 
