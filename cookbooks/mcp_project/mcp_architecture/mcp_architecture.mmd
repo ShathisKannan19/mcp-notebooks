@@ -1,0 +1,9 @@
+graph TD;
+    A[MCP Client] -->|Communicates with| B[MCP Server];
+    A --> C[User Interface];
+    A --> D[Local Database];
+    B --> E[Core Logic];
+    B --> F[External API];
+    E --> G[Data Processing];
+    E --> H[Business Logic];
+    F --> I[Third-party Service];

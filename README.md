@@ -45,6 +45,11 @@ Hands-on guide to creating an MCP client:
 - 🖥️ **Creating an MCP Client**
   [`mcp_client.ipynb`](/cookbooks/mcp_client.ipynb) - This example aligns with consuming the tools via the MCP client. Additionally, They contains the steps to run the MCP client and interact with the MCP server using LLMs.
 
+### Connecting Reference MCP Servers
+Hands-on guide to connecting to reference MCP servers:
+- 🔗 **Connecting to Reference MCP Servers**
+  [`connect_the_reference_mcp_servers.ipynb`](/cookbooks/connect_the_reference_mcp_servers.ipynb) - This example demonstrates how to connect to various reference MCP servers like `filesystems`, `research_papers`, and `fetch`.
+
 
 **Contributions Welcome!**  
 If you’d like to add examples using other providers or open-source models, feel free to open a pull request. I’ll review and merge it.
