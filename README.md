@@ -50,6 +50,11 @@ Hands-on guide to connecting to reference MCP servers:
 - 🔗 **Connecting to Reference MCP Servers**
   [`connect_the_reference_mcp_servers.ipynb`](/cookbooks/connect_the_reference_mcp_servers.ipynb) - This example demonstrates how to connect to various reference MCP servers like `filesystems`, `research_papers`, and `fetch`.
 
+### MCP Resources and Prompts
+Hands-on guide to using MCP resources and prompts:
+- 📚 **Using MCP Resources and Prompts**
+  [`prompts_and_resources_with_mcp.ipynb`](/cookbooks/prompts_and_resources_with_mcp.ipynb) - This example shows how to run the MCP server and client, explore available tools, list and fetch resources, view all prompts, and use prompts with arguments to get results.
+
 
 **Contributions Welcome!**  
 If you’d like to add examples using other providers or open-source models, feel free to open a pull request. I’ll review and merge it.
